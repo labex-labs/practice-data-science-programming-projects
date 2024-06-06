@@ -1,16 +1,13 @@
-
----
+# Practice Data Science Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
 </div>
 
-## Data Science
-
 Data Science learning path involves mastering core technologies such as Python programming, statistics, and foundational machine learning concepts. Then, you progress to exploring data processing and visualization tools like Pandas, NumPy, and Matplotlib. Next, you can delve into machine learning frameworks and libraries like Scikit-learn and TensorFlow, as well as knowledge in deep learning. Understanding data engineering aspects is also crucial, including skills in data cleaning, transformation, and storage technologies such as SQL and NoSQL databases. Continuous learning and hands-on practice through solving real-world problems and engaging in projects are essential for skill advancement.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                                 |
-|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                  |
+|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------|
 |      01 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
 |      02 | Gravitational Simulation of Earth and Super Jupite... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
 |      03 | Manage MySQL User Permissions                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-user-permission-management)                              |
@@ -99,8 +96,9 @@ Data Science learning path involves mastering core technologies such as Python p
 |      86 | Wuxu Reform Duration Calculation                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-wuxu-reform-duration-calculation)                        |
 |      87 | COVID-19 Data Analysis with Python                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-covid-19-data-statistics)                                |
 
-### More
+## More
 
-- 🔗 [Data Science Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#data-science)
 - 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
