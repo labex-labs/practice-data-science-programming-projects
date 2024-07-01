@@ -6,8 +6,8 @@
 
 Data Science learning path involves mastering core technologies such as Python programming, statistics, and foundational machine learning concepts. Then, you progress to exploring data processing and visualization tools like Pandas, NumPy, and Matplotlib. Next, you can delve into machine learning frameworks and libraries like Scikit-learn and TensorFlow, as well as knowledge in deep learning. Understanding data engineering aspects is also crucial, including skills in data cleaning, transformation, and storage technologies such as SQL and NoSQL databases. Continuous learning and hands-on practice through solving real-world problems and engaging in projects are essential for skill advancement.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                                  |
-|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                 |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
 |      01 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
 |      02 | Gravitational Simulation of Earth and Super Jupite... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
 |      03 | Manage MySQL User Permissions                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-user-permission-management)                              |
@@ -15,7 +15,7 @@ Data Science learning path involves mastering core technologies such as Python p
 |      05 | Credit Card Holder Risk Prediction                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-credit-card-holder-risk-prediction)                      |
 |      06 | K-Nearest Neighbors Regression Algorithm Implement... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
 |      07 | Linear Regression Fitting and Plotting                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-regression-fitting-and-plotting)                  |
-|      08 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-minkowski-distances-calculating)                         |
+|      08 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implementing-minkowski-distance-metric)                  |
 |      09 | Implementation of Polynomial Regression               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-polynomial-regression-implementation-and-application)    |
 |      10 | Simple Handwritten Character Recognition Classifie... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)     |
 |      11 | A Simple Course Database                              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-a-simple-course-database)                                |
@@ -37,7 +37,7 @@ Data Science learning path involves mastering core technologies such as Python p
 |      27 | Comprehensive Operation of Conversion Functions       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-comprehensive-challenge-on-conversion-functions)         |
 |      28 | Database Constraint Design and Implementation         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-constraints-comprehensive)                               |
 |      29 | Countries and Codes in Region                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-countries-and-codes-in-region)                           |
-|      30 | Countries With 1 Billion+ Population                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-countries-with-1-billion+-population)                    |
+|      30 | Countries With 1 Billion+ Population                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-countries-with-1-billion-population)                     |
 |      31 | Accessing MySQL Database and Querying GNP             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-country-gdp-query)                                       |
 |      32 | Country GNP and Population Query                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-country-gnp-and-population-query)                        |
 |      33 | Creating Stored Procedures for Course Data Retriev... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-course-statistics)                                       |
