@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
 </div>
 
-La Data Science est à la pointe de l'innovation technologique. Cet arbre de compétences propose une exploration complète et accessible du monde de l'analyse et de l'interprétation des données. En suivant une feuille de route bien structurée, vous apprendrez des concepts et des outils essentiels à travers des cours pratiques, sans vidéo. Des exercices pratiques dans le terrain de jeu interactif renforceront vos compétences en analyse statistique, apprentissage automatique et visualisation des données.
+Apprenez la science des données grâce à ce parcours d'apprentissage complet conçu pour les débutants. Ces cours de science des données offrent une feuille de route structurée pour explorer l'analyse et l'interprétation des données. Maîtrisez les concepts et outils essentiels grâce à des leçons pratiques (non vidéo) et des exercices concrets dans un environnement interactif, renforçant ainsi vos compétences en analyse statistique, en apprentissage automatique et en visualisation de données.
 
 ## Exercices
 
