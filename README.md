@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
 </div>
 
-Data Science is at the forefront of technological innovation. This Skill Tree offers a beginner - friendly and comprehensive exploration of the data analysis and interpretation world. By following a well - structured roadmap, you'll learn essential concepts and tools through hands - on, non - video courses. Practical exercises in the interactive playground will strengthen your skills in statistical analysis, machine learning, and data visualization.
+Learn Data Science with this comprehensive learning path designed for beginners. These Data Science Courses provide a structured roadmap for exploring data analysis and interpretation. Master essential concepts and tools through hands-on, non-video lessons and practical exercises in an interactive playground, strengthening skills in statistical analysis, machine learning, and data visualization.
 
 ## Exercises
 
