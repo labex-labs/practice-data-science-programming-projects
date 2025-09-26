@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
 </div>
 
-Data Science steht an der Spitze technologischer Innovationen. Dieser Skill Tree bietet eine einsteigerfreundliche und umfassende Erkundung der Welt der Datenanalyse und -interpretation. Durch das Befolgen eines gut strukturierten Fahrplans lernen Sie grundlegende Konzepte und Werkzeuge in praktischen, nicht-videobasierten Kursen. Praktische Übungen im interaktiven Playground stärken Ihre Fähigkeiten in statistischer Analyse, maschinellem Lernen und Datenvisualisierung.
+Lernen Sie Data Science mit diesem umfassenden Lernpfad, der für Anfänger konzipiert wurde. Diese Data-Science-Kurse bieten einen strukturierten Fahrplan zur Erkundung von Datenanalyse und -interpretation. Meistern Sie wesentliche Konzepte und Tools durch praktische, nicht-video-basierte Lektionen und Übungen in einer interaktiven Lernumgebung, um Ihre Fähigkeiten in statistischer Analyse, maschinellem Lernen und Datenvisualisierung zu stärken.
 
 ## Übungen
 
