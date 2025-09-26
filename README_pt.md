@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
 </div>
 
-A Ciência de Dados está na vanguarda da inovação tecnológica. Esta Skill Tree oferece uma exploração abrangente e amigável para iniciantes do mundo da análise e interpretação de dados. Ao seguir um roteiro bem estruturado, você aprenderá conceitos e ferramentas essenciais através de cursos práticos, sem vídeos. Exercícios práticos no playground interativo fortalecerão suas habilidades em análise estatística, machine learning e visualização de dados.
+Aprenda Ciência de Dados com este caminho de aprendizagem abrangente, projetado para iniciantes. Estes Cursos de Ciência de Dados oferecem um roteiro estruturado para explorar a análise e interpretação de dados. Domine conceitos e ferramentas essenciais através de aulas práticas (não em vídeo) e exercícios práticos em um ambiente interativo, fortalecendo habilidades em análise estatística, aprendizado de máquina e visualização de dados.
 
 ## Exercícios
 
